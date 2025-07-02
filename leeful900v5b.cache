@@ -9,7 +9,7 @@ exploit.js
 exploit.mjs
 favicon.ico
 index.html
-pl_goldhenbeta.bin
+GoldHEN.bin
 module\chain.mjs
 module\constants.mjs
 module\int64.mjs
